@@ -65,7 +65,7 @@ body {
   width: 64px;
 }
 
-.generate:hover {
+.generate:active {
   box-shadow: 0px 0px 40px #53ffaa;
   cursor: pointer;
 }
